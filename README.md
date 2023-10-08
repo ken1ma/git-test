@@ -6,6 +6,13 @@
     $ echo ファイル112 > dir1/dir11/ファイル112
     ```
 
+1. `link`
+
+    ```sh
+    $ mkdir link
+    $ (cd link; ln -s ../dir1; ln -s ../dir1/dir11/ファイル112)
+    ```
+
 1. `dir-empty`
 
     ```sh
