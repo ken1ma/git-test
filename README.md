@@ -1,3 +1,10 @@
+1. `dir-empty`
+
+    ```sh
+    $ mkdir dir-empty
+    $ touch dir-empty/.gitkeep
+    ```
+
 1. `日本語.txt`
     
     ```sh
