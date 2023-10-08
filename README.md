@@ -13,6 +13,8 @@
     $ (cd link; ln -s ../dir1; ln -s ../dir1/dir11/ファイル112)
     ```
 
+    1. [Windows でのシンボリックリンク](win-symlink.md)
+
 1. `dir-empty`
 
     ```sh
