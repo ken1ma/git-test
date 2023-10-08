@@ -1,3 +1,11 @@
+1. `dir1`
+
+    ```sh
+    $ mkdir -p       dir1/dir11
+    $ echo file12  > dir1/file12
+    $ echo ファイル112 > dir1/dir11/ファイル112
+    ```
+
 1. `dir-empty`
 
     ```sh
